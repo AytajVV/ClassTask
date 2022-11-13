@@ -1,0 +1,14 @@
+C:\Users\AytajVV\Desktop\-Class-Obj-\-Class-Obj-\bin\Debug\netcoreapp3.1\-Class-Obj-.exe
+C:\Users\AytajVV\Desktop\-Class-Obj-\-Class-Obj-\bin\Debug\netcoreapp3.1\-Class-Obj-.deps.json
+C:\Users\AytajVV\Desktop\-Class-Obj-\-Class-Obj-\bin\Debug\netcoreapp3.1\-Class-Obj-.runtimeconfig.json
+C:\Users\AytajVV\Desktop\-Class-Obj-\-Class-Obj-\bin\Debug\netcoreapp3.1\-Class-Obj-.runtimeconfig.dev.json
+C:\Users\AytajVV\Desktop\-Class-Obj-\-Class-Obj-\bin\Debug\netcoreapp3.1\-Class-Obj-.dll
+C:\Users\AytajVV\Desktop\-Class-Obj-\-Class-Obj-\bin\Debug\netcoreapp3.1\-Class-Obj-.pdb
+C:\Users\AytajVV\Desktop\-Class-Obj-\-Class-Obj-\obj\Debug\netcoreapp3.1\-Class-Obj-.csproj.AssemblyReference.cache
+C:\Users\AytajVV\Desktop\-Class-Obj-\-Class-Obj-\obj\Debug\netcoreapp3.1\-Class-Obj-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AytajVV\Desktop\-Class-Obj-\-Class-Obj-\obj\Debug\netcoreapp3.1\-Class-Obj-.AssemblyInfoInputs.cache
+C:\Users\AytajVV\Desktop\-Class-Obj-\-Class-Obj-\obj\Debug\netcoreapp3.1\-Class-Obj-.AssemblyInfo.cs
+C:\Users\AytajVV\Desktop\-Class-Obj-\-Class-Obj-\obj\Debug\netcoreapp3.1\-Class-Obj-.csproj.CoreCompileInputs.cache
+C:\Users\AytajVV\Desktop\-Class-Obj-\-Class-Obj-\obj\Debug\netcoreapp3.1\-Class-Obj-.dll
+C:\Users\AytajVV\Desktop\-Class-Obj-\-Class-Obj-\obj\Debug\netcoreapp3.1\-Class-Obj-.pdb
+C:\Users\AytajVV\Desktop\-Class-Obj-\-Class-Obj-\obj\Debug\netcoreapp3.1\-Class-Obj-.genruntimeconfig.cache
